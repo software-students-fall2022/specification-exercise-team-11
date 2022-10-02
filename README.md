@@ -15,9 +15,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-// TODO: do we have the names of the people interviewed?
-
-We interviewed people with experience subletting and subleasing apartments in the past.
+We interviewed Roger Shui, Mai Le, David Zhuang, Alex Chen, and Alexis Valdez, people with experience subletting and subleasing apartments in the past.
 
 #### Goals
 1. To find compatible subletters and subleasers in terms of lifestyle, habits, amenities provided in the space.
