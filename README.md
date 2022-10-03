@@ -6,15 +6,16 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Brandon Chao](https://github.com/Sciao)
+
 [Shannon Huang](https://github.com/shannonh800)
+
 [Darren Le](https://github.com/DarrenLe20)
+
 [Bruce Wu](https://github.com/bxw201)
 
 ## Stakeholders
 
-// TODO: do we have the names of the people interviewed?
-
-We interviewed people with experience subletting and subleasing apartments in the past.
+We interviewed Roger Shui, Mai Le, David Zhuang, Alex Chen, and Alexis Valdez, people with experience subletting and subleasing apartments in the past.
 
 #### Goals
 1. To find compatible subletters and subleasers in terms of lifestyle, habits, amenities provided in the space.
@@ -30,7 +31,7 @@ We interviewed people with experience subletting and subleasing apartments in th
 
 ## Product Vision Statement
 
-(App name) centralizes and streamlines the discovery, communication, and matching process for an online sublet community.
+Vimi centralizes and streamlines the discovery, communication, and matching process for an online sublet community.
 
 ## User Requirements
 
@@ -39,7 +40,7 @@ We interviewed people with experience subletting and subleasing apartments in th
 3. As a subletter, I want to be able to prioritize and rank my listings based on features that I would like to have so that I can better consider the compatibility of my various subletting options.
 4. As a subletter or subleaser, I want to get to know the other party better before I go through with the decision so that I can make sure I am comfortable with who I’m agreeing to sublet from / to.
 5. As a subletter, I want to be able to scroll through photos of the sublet option so that I know what it looks like and what to expect in terms of sizing and style.
-6. As a sublease, I want to communicate to potential subletters if I require an upfront deposit or not so that I can make sure the candidates that reach out to me are okay with my payment requirements.
+6. As a subleaser, I want to communicate to potential subletters if I require an upfront deposit or not so that I can make sure the candidates that reach out to me are okay with my payment requirements.
 7. As a subleaser, I want to filter subletter applications based on their answers to certain questions so that I can find the best possible candidate to live in my space.
 8. As a subletter, I want to know of other people’s legitimate past experiences with a certain subletting option (if people have subletted that place before) so that I know what to expect, in terms of any issues or problems that may reoccur.
 9. As a subleaser, I want to see reviews (when possible) of subletters that have sublet through the app before so that I know what to expect, in terms of any bad habits or issues that may come up.
@@ -48,4 +49,14 @@ We interviewed people with experience subletting and subleasing apartments in th
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User Story 2:
+
+![Activity diagram for User Story 2](./umls/story2.svg)
+
+User Story 7:
+
+![Activity diagram for User Story 7](./umls/story7.svg)
+
+## Wireframe Diagrams and Clickable Prototype
+
+[Access through Figma.](https://www.figma.com/file/12oKgk3QfMS9VswTVMvlM4/Wireframe-Diagrams?node-id=0%3A1)
