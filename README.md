@@ -56,3 +56,7 @@ User Story 2:
 User Story 7:
 
 ![Activity diagram for User Story 7](./umls/story7.svg)
+
+## Wireframe Diagrams and Clickable Prototype
+
+[Access through Figma.](https://www.figma.com/file/12oKgk3QfMS9VswTVMvlM4/Wireframe-Diagrams?node-id=0%3A1)
